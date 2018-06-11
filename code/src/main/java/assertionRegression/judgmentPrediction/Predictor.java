@@ -1,4 +1,4 @@
-package assertionRegression.svetlanasTask;
+package assertionRegression.judgmentPrediction;
 
 import de.tudarmstadt.ukp.dkpro.core.api.frequency.util.FrequencyDistribution;
 

@@ -23,8 +23,8 @@ import com.ibm.icu.impl.locale.XCldrStub.FileUtilities;
 
 import assertionRegression.annotationTypes.Issue;
 import assertionRegression.io.AssertionReader;
-import assertionRegression.svetlanasTask.AssertionJudgmentSimilarityPredictor_learnedSim;
-import assertionRegression.svetlanasTask.Predictor;
+import assertionRegression.judgmentPrediction.AssertionJudgmentSimilarityPredictor_learnedSim;
+import assertionRegression.judgmentPrediction.Predictor;
 import de.tudarmstadt.ukp.dkpro.core.api.resources.DkproContext;
 
 public class PredictAggregatedAgreement_simPredicted {

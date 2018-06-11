@@ -1,4 +1,4 @@
-package assertionRegression.svetlanasTask;
+package assertionRegression.judgmentPrediction;
 
 import java.io.File;
 import java.io.IOException;

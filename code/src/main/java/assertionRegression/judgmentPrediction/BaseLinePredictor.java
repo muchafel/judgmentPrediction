@@ -1,4 +1,4 @@
-package assertionRegression.svetlanasTask;
+package assertionRegression.judgmentPrediction;
 
 public class BaseLinePredictor extends Predictor {
 
