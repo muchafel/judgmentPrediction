@@ -13,6 +13,8 @@ If you want to use the code, please cite:
 >}
 
 For the machine learning approaches we rely on the machine learning framework DKPro TC (https://dkpro.github.io/dkpro-tc/), so the code is mostly written in java (except for the tensorflow experiments, that are written in python).
+The project uses Java 1.8. You need to set a DKPRO_HOME variable as described here https://zoidberg.ukp.informatik.tu-darmstadt.de/jenkins/job/DKPro%20TC%20Documentation%20(GitHub)/org.dkpro.tc%24dkpro-tc-doc/doclinks/1/#QuickStart
+
 If you have any questions on the set-up please message me!
 
 
