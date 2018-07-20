@@ -1,14 +1,22 @@
 This is the code that was used for our approach on predicting judgments (whether a person or a group agrees or disagrees) with an assertion.
 The paper can be found here: http://www.aclweb.org/anthology/S18-2026
 
-This work is part of a larger project on understanding controversial issues. See: https://sites.google.com/view/you-on-issues/about or http://www.lrec-conf.org/proceedings/lrec2018/pdf/321.pdf
-
 If you want to use the code, please cite:
 >@inproceedings{wojatzki2018agree, <br />
  > &nbsp; title={Agree or Disagree: Predicting Judgments on Nuanced Assertions},<br />
- > &nbsp; author={Wojatzki, Michael and Zesch, Torsten and Mohammad, Saif and Kiritchenko, Svetlana},<br />
+ > &nbsp; author={Wojatzki, Michael and Zesch, Torsten and Mohammad, Saif M. and Kiritchenko, Svetlana},<br />
  > &nbsp; booktitle={Proceedings of the Seventh Joint Conference on Lexical and Computational Semantics},<br />
  > &nbsp; pages={214--224},<br />
+ > &nbsp; year={2018}<br />
+>}
+
+This work is part of a larger project on understanding controversial issues. See: https://sites.google.com/view/you-on-issues/about or http://www.lrec-conf.org/proceedings/lrec2018/pdf/321.pdf
+If you are interested in the data, you can access it on the project's website. In that case, please cite:
+>@inproceedings{wojatzki2018qqd, <br />
+ > &nbsp; title={Quantifying Qualitative Data for Understanding Controversial Issues},<br />
+ > &nbsp; author={Wojatzki, Michael and Mohammad, Saif and Zesch, Torsten and Kiritchenko, Svetlana},<br />
+ > &nbsp; booktitle={Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},<br />
+ > &nbsp; pages={1405--1418},<br />
  > &nbsp; year={2018}<br />
 >}
 
